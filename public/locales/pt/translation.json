@@ -1,0 +1,31 @@
+{
+    "nav": {
+      "home": "Início",
+      "about": "Sobre",
+      "blog": "Blog",
+      "membership": "Associação",
+      "partners": "Parceiros",
+      "contact": "Contato",
+      "login": "Entrar",
+      "account": "Minha Conta",
+      "membersPortal": "Portal de Membros",
+      "logout": "Sair"
+    },
+    "footer": {
+      "description": "O Conselho Econômico da Diáspora Africana dedica-se a promover o crescimento econômico e a colaboração entre a África e sua diáspora global.",
+      "quickLinks": "Links Rápidos",
+      "contactUs": "Contate-nos",
+      "newsletter": "Boletim Informativo",
+      "newsletterDesc": "Inscreva-se em nosso boletim para receber as últimas atualizações e oportunidades.",
+      "emailPlaceholder": "Seu endereço de e-mail",
+      "subscribeSuccess": "Obrigado por se inscrever!",
+      "copyright": "Conselho Econômico da Diáspora Africana. Todos os direitos reservados.",
+      "home": "Início",
+      "about": "Sobre",
+      "blog": "Blog",
+      "membership": "Associação",
+      "partners": "Parceiros",
+      "contact": "Contato"
+    }
+}
+  

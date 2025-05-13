@@ -1,0 +1,651 @@
+{
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "blog": "Blog",
+      "membership": "Membership",
+      "partners": "Partners",
+      "contact": "Contact",
+      "login": "Login",
+      "account": "My Account",
+      "membersPortal": "Members Portal",
+      "logout": "Logout"
+    },
+    "footer": {
+      "description": "The African Diaspora Economic Council is dedicated to fostering economic growth and collaboration between Africa and its global diaspora.",
+      "quickLinks": "Quick Links",
+      "contactUs": "Contact Us",
+      "newsletter": "Newsletter",
+      "newsletterDesc": "Subscribe to our newsletter for the latest updates and opportunities.",
+      "emailPlaceholder": "Your email address",
+      "subscribeSuccess": "Thank you for subscribing!",
+      "copyright": "African Diaspora Economic Council. All rights reserved.",
+      "home": "Home",
+      "about": "About",
+      "blog": "Blog",
+      "membership": "Membership",
+      "partners": "Partners",
+      "contact": "Contact"
+    },
+    "home": {
+      "hero": {
+        "title": "Connecting Africa's Diaspora To Economic Growth",
+        "subtitle": "Building bridges between Africa and its global diaspora to foster economic development, investment, and collaboration.",
+        "joinButton": "Join the Council",
+        "learnButton": "Learn More"
+      },
+      "features": {
+        "title": "Why Join ADEC?",
+        "subtitle": "Discover the benefits of becoming a member of the African Diaspora Economic Council.",
+        "global": {
+          "title": "Global Network",
+          "description": "Connect with professionals, entrepreneurs, and investors from across the African diaspora worldwide."
+        },
+        "network": {
+          "title": "Business Networking",
+          "description": "Expand your professional network and discover new business opportunities through our events and platform."
+        },
+        "growth": {
+          "title": "Economic Growth",
+          "description": "Contribute to and benefit from initiatives designed to boost economic development across Africa."
+        },
+        "support": {
+          "title": "Business Support",
+          "description": "Access resources, mentorship, and support to help your business thrive in African markets."
+        },
+        "resources": {
+          "title": "Educational Resources",
+          "description": "Stay informed with the latest research, market insights, and economic trends affecting African economies."
+        },
+        "recognition": {
+          "title": "Professional Recognition",
+          "description": "Gain credibility and visibility as a member of a respected international economic council."
+        }
+      },
+      "stats": {
+        "title": "Our Global Impact",
+        "subtitle": "The African Diaspora Economic Council has a growing presence across the world.",
+        "countries": "Countries Represented",
+        "members": "Active Members",
+        "partners": "Partner Organizations",
+        "investments": "Facilitated Investments"
+      },
+      "cta": {
+        "title": "Ready to Join Our Global Network?",
+        "description": "Become a member today and start contributing to Africa's economic growth while expanding your professional opportunities.",
+        "button": "Join Now"
+      }
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "The African Diaspora Economic Council (ADEC) is an African Diaspora organization based in America dedicated to advocating and promoting the interests of the Africans Diaspora business entities throughout the United States",
+      "mission": {
+        "title": "Our Mission",
+        "description": "To advocate and promote bi-lateral trade, socioeconomic development and investment opportunities in the United States and the Emerging Markets of the Sub-Saharan African market region through collaboration with the United States business community, such as Small and Medium Enterprises (SMEs), Multi-national Corporations and Non-Governmental Agencies (NGOs)."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "Our vision is to advocate and promote the interests of the Africans Diaspora business entities throughout the United States by collaborating with African Americans businesses, multi-national corporations, and individuals in positions of authority in the public sectors, for the sole purpose of advocating and promoting bilateral trade and socioeconomic development on both continents, especially as people of African descent faced uncertainty into the future."
+      },
+      "joinUs": "Join Us Now",
+      "values": {
+        "title": "Our Goals",
+        "subtitle": "Establishing collaborative and strategic partnerships with the African Union (AU), the Economic Community of West African States (ECOWAS) and the Common Markets of Eastern and Southeastern Africa (COMESA)",
+        "global": {
+          "title": "Revitalization",
+          "description": "Developing a global model to rejuvenate economic activities across ECOWAS, COMESA, and all 55 African countries."
+        },
+        "collaboration": {
+          "title": "Partnerships",
+          "description": "Strengthening existing alliances while forging new relationships to boost economic collaboration."
+        },
+        "innovation": {
+          "title": "Expansion",
+          "description": "Fostering business growth through procurement, capital access, and international trade under the African Growth Opportunity Act (AGOA)."
+        },
+        "excellence": {
+          "title": "Assistance",
+          "description": "Providing technical support and guidance on accessing financial resources and infrastructure development."
+        },
+        "impact": {
+          "title": "Development",
+          "description": "Creating an enabling environment for business retention, recruitment, capacity building, workforce development, and job creation."
+        },
+        "integrity": {
+          "title": "Promotion",
+          "description": "Enhancing Africa’s business visibility through trade missions, exhibitions, seminars, and market development initiatives."
+        }
+      },
+      "history": {
+        "title": "Our History",
+        "subtitle": "Building bridges between Africa and its global diaspora to foster economic development, investment, and collaboration."
+      },
+      "milestones": {
+        "founding": {
+          "title": "Our Founding",
+          "description": ""
+        },
+        "expansion": {
+          "title": "Our Expansion",
+          "description": ""
+        },
+        "partnership": {
+          "title": "Our Partnerships",
+          "description": ""
+        },
+        "summit": {
+          "title": "Our Summits",
+          "description": ""
+        },
+        "digital": {
+          "title": "Our Digital Presence",
+          "description": ""
+        },
+        "present": {
+          "title": "Our Present",
+          "description": ""
+        }
+      },
+      "team": {
+        "title": "Our Board",
+        "subtitle": "",
+        "president": "President",
+        "presidentBio": "John R. Monteiro is a seasoned entrepreneur with 40+ years of success in engineering, renewable energy, and business development.",
+        "vicePresident": "Director",
+        "vicePresidentBio": "",
+        "director": "Director",
+        "directorBio": "",
+        "obiDirectorBio": "Obi leads ShieldForce Corporation, leveraging AI-driven cybersecurity to protect businesses from financial losses, and reputational harm.",
+        "dorisDirectorBio": "Doris is a Rhode Island native with West African roots, is the founder of the Diversity Business Exhibit.",
+        "secretary": "Clerk",
+        "secretaryBio": "",
+        "treasurer": "Treasurer",
+        "treasurerBio": "",
+        "communications": "Director",
+        "communicationsBio": ""
+      },
+      "contactTeam": "Contact the Board",
+      "achievements": {
+        "title": "Our Achievements",
+        "subtitle": "Building bridges between Africa and its global diaspora to foster economic development, investment, and collaboration.",
+        "countries": "Countries Represented",
+        "countriesDesc": "We have members from over 50 countries worldwide.",
+        "members": "Members",
+        "membersDesc": "",
+        "investments":"Facilitated Investments",
+        "investmentsDesc": "",
+        "partners": "Partner Organizations",
+        "partnersDesc": ""
+      },
+      "cta": {
+        "title": "Ready to Join Our Global Network?",
+        "description": "Become a member today and start contributing to Africa's economic growth while expanding your professional opportunities.",
+        "joinButton": "Join the Council",
+        "contactButton": "Contact Us Now"
+      }
+    },
+    "blog": {
+      "title": "Blog & Insights",
+      "subtitle": "Stay updated with the latest news, trends, and insights about African economies and diaspora initiatives.",
+      "searchPlaceholder": "Search articles...",
+      "allCategories": "All Categories",
+      "readMore": "Read More",
+      "noResults": "No articles found",
+      "tryDifferent": "Try different search terms or categories",
+      "clearFilters": "Clear Filters"
+    },
+    "partners": {
+      "title": "Our Partnerships",
+      "subtitle": "",
+      "viewPartners": "View Partners",
+      "becomePartner": "Become a Partner",
+      "ourPartners": "Our Partners",
+      "partnersDescription": "",
+      "allPartners": "All Partners",
+      "financial": "Financial",
+      "business": "Business",
+      "innovation": "Innovation",
+      "development": "Development",
+      "network": "Network",
+      "visitWebsite": "Visit Website",
+      "testimonials": "Partner Testimonials",
+      "testimonial1": {
+        "name": "John Doe",
+        "title": "Pan-African Chamber of Commerce",
+        "quote": ""
+      },
+      "testimonial2": {
+        "name": "Jane Doe",
+        "title": "African Development Bank",
+        "quote": ""
+      },
+      "testimonial3": {
+        "name": "Sarah Johnson",
+        "title": "African Innovation Foundation",
+        "quote": ""
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "",
+      "email": "Contact Email",
+      "emailDesc":"Receive updates and announcements via email",
+      "phone": "Phone Number",
+      "phoneDesc": "",
+      "location": "Boston, USA",
+      "locationDesc": "",
+      "sendMessage": "Send Us a Message",
+      "form": {
+        "name": "Name",
+        "email": "Email Address",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Submit"
+      },
+      "officeHours": "Our Office Hours",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed",
+      "faq": "Frequently Asked Questions",
+      "findUs": "Find Us",
+      "mapDescription": "Follow the Map",
+      "mapPlaceholder": " There's the spot"
+    },
+    "membership": {
+      "title": "Membership",
+      "subtitle": "Join our global network of professionals, entrepreneurs, and investors committed to Africa's economic development.",
+      "recommended": "Recommended",
+      "selectPlan": "Select Plan",
+      "back": "Back",
+      "continue": "Continue",
+      "steps": {
+        "step1": "Choose Plan",
+        "step2": "Application",
+        "step3": "Payment",
+        "step4": "Confirmation"
+      },
+      "plans": {
+        "individual": {
+          "title": "Student",
+          "period": "year",
+          "features": {
+            "f1": "Access to member directory",
+            "f2": "Invitation to quarterly webinars",
+            "f3": "Digital membership certificate",
+            "f4": "Monthly newsletter"
+          },
+          "notIncluded": {
+            "n1": "Business promotion opportunities",
+            "n2": "Access to investment network"
+          }
+        },
+        "business": {
+          "title": "Members",
+          "period": "year",
+          "features": {
+            "f1": "All Individual benefits",
+            "f2": "Business listing in directory",
+            "f3": "Promotional opportunities",
+            "f4": "Access to investment network",
+            "f5": "Quarterly business review"
+          },
+          "notIncluded": {
+            "n1": "Priority event speaking opportunities"
+          }
+        },
+        "board": {
+          "title": "Board Members",
+          "period": "year",
+          "features": {
+            "f1": "All Individual benefits",
+            "f2": "Business listing in directory",
+            "f3": "Promotional opportunities",
+            "f4": "Access to investment network",
+            "f5": "Quarterly business review"
+          },
+          "notIncluded": {
+            "n1": "Priority event speaking opportunities"
+          }
+        },
+        "smallCorp": {
+          "title": "Small Corporations",
+          "period": "year",
+          "features": {
+            "f1": "All Business benefits",
+            "f2": "Priority event speaking opportunities",
+            "f3": "Featured business spotlight",
+            "f4": "Dedicated account manager",
+            "f5": "Custom market research",
+            "f6": "VIP access to all events"
+          },
+          "notIncluded": {}
+        },
+        "midsizeCorp": {
+          "title": "Midsize Corporations",
+          "period": "year",
+          "features": {
+            "f1": "All Business benefits",
+            "f2": "Priority event speaking opportunities",
+            "f3": "Featured business spotlight",
+            "f4": "Dedicated account manager",
+            "f5": "Custom market research",
+            "f6": "VIP access to all events"
+          },
+          "notIncluded": {}
+        },
+        "LargeCorp": {
+          "title": "Large Corporations",
+          "period": "year",
+          "features": {
+            "f1": "All Business benefits",
+            "f2": "Priority event speaking opportunities",
+            "f3": "Featured business spotlight",
+            "f4": "Dedicated account manager",
+            "f5": "Custom market research",
+            "f6": "VIP access to all events"
+          },
+          "notIncluded": {}
+        }
+      },
+      "corporationMembershipPlansTitle": "Business Plans",
+      "applicationForm": {
+        "title": "Membership Application",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "organization": "Organization/Company",
+        "country": "Country",
+        "selectCountry": "Select your country",
+        "resume": "Resume/CV (Optional)",
+        "clickToUpload": "Click to upload",
+        "fileTypes": "PDF, DOC, DOCX up to 5MB",
+        "fileSelected": "File selected",
+        "additionalInfo": "Additional Information"
+      },
+      "payment": {
+        "title": "Payment Information",
+        "summary": "Order Summary",
+        "plan": "Selected Plan:",
+        "total": "Total Amount:",
+        "methods": "Payment Methods",
+        "creditCard": "Credit/Debit Card",
+        "stripe": "Stripe",
+        "paychex": "Paychex",
+        "payNow": "Pay Now"
+      },
+      "confirmation": {
+        "title": "Application Submitted!",
+        "message": "Thank you for your application. Your membership has been confirmed and you now have access to all member benefits.",
+        "details": "Membership Details",
+        "name": "Name:",
+        "email": "Email:",
+        "plan": "Membership Plan:",
+        "amount": "Amount Paid:",
+        "download": "Download Receipt",
+        "goToPortal": "Go to Members Portal"
+      }
+    },
+    "login": {
+      "title": "Sign in to your account",
+      "subtitle": "Access the members-only area",
+      "register": "Create a new account",
+      "registerSubtitle": "Join the African Diaspora Economic Council",
+      "email": "Email address",
+      "emailPlaceholder": "your.email@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "••••••••",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot your password?",
+      "signIn": "Sign in",
+      "createAccount": "Create account",
+      "processing": "Processing...",
+      "noAccount": "Don't have an account?",
+      "alreadyHaveAccount": "Already have an account?",
+      "passwordMismatch": "Passwords do not match",
+      "genericError": "An error occurred. Please try again."
+    },
+    "membersPortal": {
+      "title": "Members Portal",
+      "nav": {
+        "dashboard": "Dashboard",
+        "documents": "Documents",
+        "directory": "Directory",
+        "events": "Events",
+        "messages": "Messages",
+        "settings": "Settings",
+        "logout": "Logout"
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "upcomingEvents": "Upcoming Events",
+        "eventsCount": "{{count}} events scheduled",
+        "newMessages": "New Messages",
+        "messagesCount": "{{count}} unread messages",
+        "membershipStatus": "Membership Status",
+        "active": "Active",
+        "recentActivity": "Recent Activity",
+        "activity1": {
+          "title": "New resource added: African Market Report 2023",
+          "time": "2 hours ago"
+        },
+        "activity2": {
+          "title": "You registered for the Economic Summit",
+          "time": "Yesterday"
+        },
+        "activity3": {
+          "title": "New message from Investment Committee",
+          "time": "3 days ago"
+        },
+        "event1": {
+          "month": "Jun",
+          "day": "15",
+          "title": "African Economic Summit",
+          "time": "9:00 AM - 5:00 PM"
+        },
+        "event2": {
+          "month": "Jul",
+          "day": "22",
+          "title": "Networking Mixer",
+          "time": "6:30 PM - 8:30 PM"
+        },
+        "viewAllEvents": "View all events",
+        "resources": "Latest Resources",
+        "resource1": {
+          "title": "African Market Report 2023",
+          "type": "PDF Report"
+        },
+        "resource2": {
+          "title": "Investment Opportunities in East Africa",
+          "type": "Presentation"
+        },
+        "resource3": {
+          "title": "Trade Policy Updates",
+          "type": "Document"
+        },
+        "viewAllResources": "View all resources"
+      },
+      "documents": {
+        "title": "Documents",
+        "allDocuments": "All Documents",
+        "upload": "Upload Document",
+        "name": "Name",
+        "type": "Type",
+        "size": "Size",
+        "date": "Date Added",
+        "actions": "Actions",
+        "download": "Download",
+        "doc1": {
+          "name": "African Market Report 2023",
+          "type": "PDF",
+          "size": "2.4 MB",
+          "date": "Jun 10, 2023"
+        },
+        "doc2": {
+          "name": "Investment Opportunities in East Africa",
+          "type": "PPTX",
+          "size": "5.1 MB",
+          "date": "May 22, 2023"
+        },
+        "doc3": {
+          "name": "Trade Policy Updates",
+          "type": "DOCX",
+          "size": "1.2 MB",
+          "date": "May 15, 2023"
+        },
+        "doc4": {
+          "name": "Economic Summit Agenda",
+          "type": "PDF",
+          "size": "0.8 MB",
+          "date": "Apr 30, 2023"
+        },
+        "doc5": {
+          "name": "Membership Certificate",
+          "type": "PDF",
+          "size": "0.5 MB",
+          "date": "Apr 15, 2023"
+        }
+      },
+      "directory": {
+        "title": "Member Directory",
+        "members": "All Members",
+        "search": "Search members...",
+        "viewProfile": "View Profile",
+        "member1": {
+          "name": "John Doe",
+          "title": "CEO",
+          "company": "Global Ventures Ltd"
+        },
+        "member2": {
+          "name": "Sarah Johnson",
+          "title": "Investment Advisor",
+          "company": "African Growth Partners"
+        },
+        "member3": {
+          "name": "Michael Okonkwo",
+          "title": "Director",
+          "company": "Tech Innovations Africa"
+        },
+        "member4": {
+          "name": "Fatima Diallo",
+          "title": "Policy Analyst",
+          "company": "West African Trade Council"
+        },
+        "member5": {
+          "name": "David Mwangi",
+          "title": "Entrepreneur",
+          "company": "Sustainable Solutions"
+        },
+        "member6": {
+          "name": "Grace Okafor",
+          "title": "Finance Director",
+          "company": "Pan-African Bank"
+        }
+      },
+      "events": {
+        "title": "Events",
+        "upcoming": "Upcoming Events",
+        "register": "Register",
+        "calendar": "Calendar",
+        "month": "June 2023",
+        "sun": "S",
+        "mon": "M",
+        "tue": "T",
+        "wed": "W",
+        "thu": "T",
+        "fri": "F",
+        "sat": "S",
+        "event1": {
+          "month": "Jun",
+          "day": "15",
+          "title": "African Economic Summit",
+          "time": "9:00 AM - 5:00 PM",
+          "location": "Virtual Event"
+        },
+        "event2": {
+          "month": "Jul",
+          "day": "22",
+          "title": "Networking Mixer",
+          "time": "6:30 PM - 8:30 PM",
+          "location": "New York, NY"
+        },
+        "event3": {
+          "month": "Aug",
+          "day": "10",
+          "title": "Investment Workshop",
+          "time": "2:00 PM - 4:00 PM",
+          "location": "London, UK"
+        }
+      },
+      "messages": {
+        "title": "Messages",
+        "search": "Search conversations...",
+        "online": "Online",
+        "typeMessage": "Type a message...",
+        "send": "Send",
+        "conversation1": {
+          "name": "Investment Committee",
+          "time": "2h ago",
+          "preview": "We'd like to discuss your proposal..."
+        },
+        "conversation2": {
+          "name": "Sarah Johnson",
+          "time": "Yesterday",
+          "preview": "Looking forward to the summit next month!"
+        },
+        "conversation3": {
+          "name": "Michael Okonkwo",
+          "time": "2d ago",
+          "preview": "Thanks for connecting me with the team."
+        },
+        "conversation4": {
+          "name": "Events Team",
+          "time": "1w ago",
+          "preview": "Your registration has been confirmed."
+        },
+        "conversation5": {
+          "name": "Membership Support",
+          "time": "2w ago",
+          "preview": "Your account has been updated successfully."
+        },
+        "message1": "Hello! We've reviewed your investment proposal and would like to discuss it further.",
+        "message2": "That sounds great. When would be a good time to meet?",
+        "message3": "How about next Tuesday at 2 PM? We can set up a video call.",
+        "message4": "Perfect, I'll add it to my calendar. Looking forward to it!",
+        "messageTime1": "10:30 AM",
+        "messageTime2": "10:32 AM",
+        "messageTime3": "10:45 AM",
+        "messageTime4": "10:47 AM"
+      },
+      "settings": {
+        "title": "Settings",
+        "profile": "Profile Information",
+        "changePhoto": "Change Photo",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "company": "Company/Organization",
+        "bio": "Bio",
+        "saveChanges": "Save Changes",
+        "password": "Change Password",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmPassword": "Confirm New Password",
+        "updatePassword": "Update Password",
+        "notifications": "Notification Settings",
+        "emailNotifications": "Email Notifications",
+        "emailDesc": "Receive updates and announcements via email",
+        "eventReminders": "Event Reminders",
+        "eventDesc": "Get reminders about upcoming events",
+        "messageNotifications": "Message Notifications",
+        "messageDesc": "Receive notifications for new messages"
+      }
+    }
+}
+  

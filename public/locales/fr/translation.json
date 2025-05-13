@@ -1,0 +1,31 @@
+{
+    "nav": {
+      "home": "Accueil",
+      "about": "À Propos",
+      "blog": "Blog",
+      "membership": "Adhésion",
+      "partners": "Partenaires",
+      "contact": "Contact",
+      "login": "Connexion",
+      "account": "Mon Compte",
+      "membersPortal": "Portail des Membres",
+      "logout": "Déconnexion"
+    },
+    "footer": {
+      "description": "Le Conseil Économique de la Diaspora Africaine se consacre à favoriser la croissance économique et la collaboration entre l'Afrique et sa diaspora mondiale.",
+      "quickLinks": "Liens Rapides",
+      "contactUs": "Contactez-nous",
+      "newsletter": "Bulletin d'information",
+      "newsletterDesc": "Abonnez-vous à notre newsletter pour les dernières mises à jour et opportunités.",
+      "emailPlaceholder": "Votre adresse e-mail",
+      "subscribeSuccess": "Merci pour votre abonnement!",
+      "copyright": "Conseil Économique de la Diaspora Africaine. Tous droits réservés.",
+      "home": "Accueil",
+      "about": "À Propos",
+      "blog": "Blog",
+      "membership": "Adhésion",
+      "partners": "Partenaires",
+      "contact": "Contact"
+    }
+}
+  
