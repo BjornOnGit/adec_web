@@ -157,10 +157,11 @@
         "directorBio": "",
         "obiDirectorBio": "Obi leads ShieldForce Corporation, leveraging AI-driven cybersecurity to protect businesses from financial losses, and reputational harm.",
         "dorisDirectorBio": "Doris is a Rhode Island native with West African roots, is the founder of the Diversity Business Exhibit.",
+        "jengDirectorBio": "Kodou leads WiSTEM Africa, harnessing inclusive technology and AI to drive gender equity, digital inclusion, and leadership development across Africa.",
         "secretary": "Clerk",
         "secretaryBio": "",
         "treasurer": "Treasurer",
-        "treasurerBio": "",
+        "treasurerBio": "Mr. Jackson leads the New England Chamber of Commerce, advancing U.S.-Africa trade and economic development through strategic partnerships, trade advisory, and diaspora-led investment initiatives.",
         "communications": "Director",
         "communicationsBio": ""
       },
@@ -420,6 +421,8 @@
         "events": "Events",
         "messages": "Messages",
         "settings": "Settings",
+        "blogEditor": "Blog Editor",
+        "myBlogs": "My Blogs",
         "logout": "Logout"
       },
       "dashboard": {

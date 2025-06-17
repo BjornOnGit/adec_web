@@ -122,10 +122,10 @@ const AboutPage = () => {
     {
       name: "Chris Jackson",
       title: t("about.team.treasurer"),
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/images/chris_jackson_img.jpg?height=300&width=300",
       bio: t("about.team.treasurerBio"),
       social: {
-        linkedin: "https://linkedin.com",
+        linkedin: "https://www.linkedin.com/in/christopher-jackson-7a41672a/",
         twitter: "https://twitter.com",
         email: "mailto:chris.d.jackson@comcast.net",
       },
@@ -166,7 +166,7 @@ const AboutPage = () => {
     {
       name: "Christine Tangishaka",
       title: t("about.team.director"),
-      image: "/placeholder.svg?height=300&width=300",
+      image: "/images/christine_img.jpg?height=300&width=300",
       bio: t("about.team.directorBio"),
       social: {
         linkedin: "https://linkedin.com",
@@ -205,6 +205,17 @@ const AboutPage = () => {
         linkedin: "https://linkedin.com",
         twitter: "https://twitter.com",
         email: "mailto:swanntani@gmail.com",
+      },
+    },
+    {
+      name: "Kodou Jeng",
+      title: t("about.team.director"),
+      image: "/images/kodou_jeng_img.jpg?height=300&width=300",
+      bio: t("about.team.jengDirectorBio"),
+      social: {
+        linkedin: "https://www.linkedin.com/in/kodou-jeng-%F0%9F%87%AC%F0%9F%87%B2-22a42734/",
+        twitter: "https://twitter.com",
+        email: "mailto:kodou.jeng@dst.gov.za",
       },
     }
   ]
