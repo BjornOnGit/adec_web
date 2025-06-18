@@ -13,6 +13,23 @@ const Settings = () => {
   const [loading, setLoading] = useState(false)
   const [message, setMessage] = useState({ type: "", text: "" })
 
+  // Helper function to ensure we have arrays
+  const ensureArray = (value) => {
+    if (Array.isArray(value)) return value
+    if (typeof value === "string" && value.trim()) {
+      try {
+        const parsed = JSON.parse(value)
+        return Array.isArray(parsed) ? parsed : []
+      } catch {
+        return value
+          .split(",")
+          .map((item) => item.trim())
+          .filter(Boolean)
+      }
+    }
+    return []
+  }
+
   // Profile state
   const [profile, setProfile] = useState({
     first_name: "",
@@ -72,8 +89,23 @@ const Settings = () => {
       // Load profile
       const profileResult = await settingsService.getUserProfile(user.id)
       if (profileResult.success) {
-        setProfile((prev) => ({ ...prev, ...profileResult.data }))
-        setAvatar(profileResult.data.avatar_url)
+        const profileData = profileResult.data
+
+        // Ensure skills and interests are arrays
+        if (profileData.skills && !Array.isArray(profileData.skills)) {
+          profileData.skills = []
+        }
+        if (profileData.interests && !Array.isArray(profileData.interests)) {
+          profileData.interests = []
+        }
+
+        setProfile((prev) => ({
+          ...prev,
+          ...profileData,
+          skills: profileData.skills || [],
+          interests: profileData.interests || [],
+        }))
+        setAvatar(profileData.avatar_url)
       }
 
       // Load notification preferences
@@ -207,10 +239,10 @@ const Settings = () => {
   }
 
   const addSkill = () => {
-    if (newSkill.trim() && !profile.skills.includes(newSkill.trim())) {
+    if (newSkill.trim() && !ensureArray(profile.skills).includes(newSkill.trim())) {
       setProfile((prev) => ({
         ...prev,
-        skills: [...prev.skills, newSkill.trim()],
+        skills: [...ensureArray(prev.skills), newSkill.trim()],
       }))
       setNewSkill("")
     }
@@ -219,15 +251,15 @@ const Settings = () => {
   const removeSkill = (skillToRemove) => {
     setProfile((prev) => ({
       ...prev,
-      skills: prev.skills.filter((skill) => skill !== skillToRemove),
+      skills: ensureArray(prev.skills).filter((skill) => skill !== skillToRemove),
     }))
   }
 
   const addInterest = () => {
-    if (newInterest.trim() && !profile.interests.includes(newInterest.trim())) {
+    if (newInterest.trim() && !ensureArray(profile.interests).includes(newInterest.trim())) {
       setProfile((prev) => ({
         ...prev,
-        interests: [...prev.interests, newInterest.trim()],
+        interests: [...ensureArray(prev.interests), newInterest.trim()],
       }))
       setNewInterest("")
     }
@@ -236,7 +268,7 @@ const Settings = () => {
   const removeInterest = (interestToRemove) => {
     setProfile((prev) => ({
       ...prev,
-      interests: prev.interests.filter((interest) => interest !== interestToRemove),
+      interests: ensureArray(prev.interests).filter((interest) => interest !== interestToRemove),
     }))
   }
 
@@ -380,7 +412,7 @@ const Settings = () => {
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">Skills</label>
         <div className="flex flex-wrap gap-2 mb-3">
-          {profile.skills.map((skill, index) => (
+          {ensureArray(profile.skills).map((skill, index) => (
             <span
               key={index}
               className="inline-flex items-center px-3 py-1 rounded-full text-sm bg-primary-light text-primary"
@@ -411,7 +443,7 @@ const Settings = () => {
       <div>
         <label className="block text-sm font-medium text-gray-700 mb-2">Interests</label>
         <div className="flex flex-wrap gap-2 mb-3">
-          {profile.interests.map((interest, index) => (
+          {ensureArray(profile.interests).map((interest, index) => (
             <span
               key={index}
               className="inline-flex items-center px-3 py-1 rounded-full text-sm bg-gray-100 text-gray-700"
